@@ -1,0 +1,24 @@
+{
+  "name": "mean-map",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "angular": "^1.7.0",
+    "body-parser": "~1.18.2",
+    "consolidate": "^0.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.2",
+    "morgan": "~1.9.0",
+    "mustache": "^2.3.0",
+    "pug": "^2.0.3",
+    "serve-favicon": "~2.4.5",
+    "cors": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  }
+}
